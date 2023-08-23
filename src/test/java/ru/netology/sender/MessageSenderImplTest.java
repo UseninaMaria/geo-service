@@ -1,4 +1,4 @@
-package ru.netology;
+package ru.netology.sender;
 
 import org.junit.Before;
 import org.junit.Test;
